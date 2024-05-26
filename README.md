@@ -1,6 +1,3 @@
-Certainly! Here's the updated README.md file with instructions tailored for using Forge instead of Truffle:
-
----
 
 # Decentralized Stable Coin (DSC) Engine
 
@@ -85,4 +82,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 This should provide a comprehensive overview of your DeFi stablecoin project, including instructions tailored for using Forge. Let me know if you need further adjustments!
+
 # DeFi-Stablecoin
